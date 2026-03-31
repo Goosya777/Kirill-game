@@ -4,7 +4,7 @@
 
 ## 🚀 Как запустить
 1. Скачай Python: python.org
-2. Запусти: `python Kirill-game.py`
+2. Запусти: `python Kirill-game.py` (у Beta_v0.1 файл называется "new", если будете запускать её, то пишите new, а не Kirill-game)
 
 ## 📦 Версии
 - v0.1 (beta) ✅ База: выборы, карма, 3 концовки
